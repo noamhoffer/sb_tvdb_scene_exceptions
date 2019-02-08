@@ -213,7 +213,7 @@
 175101: 'Travel Channel Culture Shock',
 90751: 'Travel Channel Planet Food',
 199031: 'Click and Clack As the Wrench Turns',
-253682: 'Project Runway Allstars', 'Project Runway All-Stars',
+253682: 'Project Runway Allstars', 'Project Runway All-Stars', 'Project Runway All Stars',
 264141: 'Falcon',
 73587: 'The Twilight Zone 1959', 'The Twilight Zone 1960', 'The Twilight Zone 1961', 'The Twilight Zone 1962', 'The Twilight Zone 1963', 'The Twilight Zone 1964',
 80101: 'Harry And Paul',
